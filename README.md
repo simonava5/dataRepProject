@@ -14,6 +14,14 @@ This program includes
 * CRUD operations
 * Authorisation
 
+How to **run** it?
+
+Save all files on a local machine.
+Run simpleserver.py
+Open files through local machine
+
+http://127.0.0.1:5000/CustomerList.html 
+
 
 
 
