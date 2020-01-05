@@ -17,7 +17,7 @@ This program includes
 How to **run** it?
 
 1. Save all files on a local machine.
-2. Run simpleserver.py
+2. Run simpleserver.py on your command prompt.
 3. Open files through local machine
 *http://127.0.0.1:5000/*
 4. Database table is in the **CustomerList.html** file. 
